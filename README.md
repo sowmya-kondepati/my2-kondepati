@@ -8,7 +8,7 @@ Statue of Liberty and Ellis Island: **Symbolizing freedom and immigration, these
 2. Relaxing on pristine beaches
 3. Sampling local cuisine
 # Food
-*chicken
-*maggie
-*biryani
+* chicken
+* maggie
+* biryani
 ---
