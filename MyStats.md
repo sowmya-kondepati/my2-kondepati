@@ -24,3 +24,19 @@ my name is sowmya kondepati and i am from India. I completed my gradutation on A
 > Be alone , that is the secret of invention ; be alone, that is when ideas are born - *Nikola Tesla*
 
 ---
+
+### Code Snippet
+
+> How to make a navigation menu
+
+[Navigation menu](https://stackoverflow.com/questions/54733985/how-to-make-a-navigation-menu)
+
+```
+<ul id="nav">
+   <li><a href="#">Home</a></li>
+   <li><a href="#">About</a></li>
+   <li><a href="#">Clients</a></li>
+   <li><a href="#">Contact Us</a></li>
+</ul>
+```
+[Snippet](https://css-tricks.com/snippets/html/standard-list-navigation/)
