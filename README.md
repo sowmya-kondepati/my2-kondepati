@@ -17,14 +17,5 @@ https://github.com/sowmya-kondepati/my2-kondepati/blob/main/MyStats.md
 
 
 
----
 
-### Sports
-
-| Name | Reason | Hours per an average week|
-|------|--------|--------------------------|
-|Throwball|Co -ordination|4|
-|kabatti|Team work|6|
-|chess|able to tackle the situation|8|
-|Running|To increase strenght|6|
 
