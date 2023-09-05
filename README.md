@@ -13,4 +13,6 @@ Statue of Liberty and Ellis Island: **Symbolizing freedom and immigration, these
 * maggie
 * biryani
 
+https://github.com/sowmya-kondepati/my2-kondepati/blob/main/MyStats.md
+
 ---
