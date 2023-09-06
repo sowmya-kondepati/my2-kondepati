@@ -41,7 +41,7 @@ Statue of Liberty and Ellis Island: **Symbolizing freedom and immigration, these
 
 > How to make a navigation menu
 
-[Navigation menu](https://stackoverflow.com/questions/54733985/how-to-make-a-navigation-menu)
+<https://stackoverflow.com/questions/54733985/how-to-make-a-navigation-menu>
 
 ```
 <ul id="nav">
@@ -51,7 +51,7 @@ Statue of Liberty and Ellis Island: **Symbolizing freedom and immigration, these
    <li><a href="#">Contact Us</a></li>
 </ul>
 ```
-[Snippet](https://css-tricks.com/snippets/html/standard-list-navigation/)
+<https://css-tricks.com/snippets/html/standard-list-navigation/>
 
 
 
